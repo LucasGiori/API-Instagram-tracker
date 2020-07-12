@@ -39,7 +39,7 @@
     <th>Descrição</th>
   </tr>
   <tr>
-    <td><code>/api/liturgia</code></td>
+    <td><code>/api/tracker</code></td>
     <td align="center">GET | POST</td>
     <td>
         {
