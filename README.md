@@ -62,7 +62,7 @@
         alt="Screenshot da aplicação" 
         title="Screenshot da aplicação"
         width="800px"
-        src="./.github/lucasgiori.png"
+        src="./.github/lucasgiori.PNG"
     >
 </h3>
 
@@ -74,7 +74,7 @@
         alt="Screenshot da aplicação" 
         title="Screenshot da aplicação"
         width="800px"
-        src="./.github/neymarrequest.png"
+        src="./.github/neymarrequest.PNG"
     >
 </h3>
 <br>
@@ -86,6 +86,6 @@
         alt="Screenshot da aplicação" 
         title="Screenshot da aplicação"
         width="800px"
-        src="./.github/neymar.png"
+        src="./.github/neymar.PNG"
     >
 </h3>
